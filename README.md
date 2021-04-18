@@ -4,3 +4,5 @@ Je vais dans ce dossier, vous parler de cette belle école située en plein cent
 À partir de mon répertoire local, dans le fichier README, j'écris cette ligne.
 
 Je vais écrire une 2e ligne. Victoriaville est une très belle ville.
+
+Je viens de m'ajouter une 3e ligne pour vous faire voir un historique.
