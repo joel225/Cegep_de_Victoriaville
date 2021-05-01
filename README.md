@@ -6,3 +6,5 @@ Je vais dans ce dossier, vous parler de cette belle école située en plein cent
 Je vais écrire une 2e ligne. Victoriaville est une très belle ville.
 
 Je viens de m'ajouter une 3e ligne pour vous faire voir un historique.
+
+J'ajoute une 4e ligne au fichier README.md
