@@ -11,3 +11,6 @@ J'ajoute une 4e ligne au fichier README.md
 On ajoute encore une ligne README.md
 Nous sommes rendu en saison d'été presque
 Allo mon ptit coco
+
+![image](https://user-images.githubusercontent.com/82664565/117360249-8c710580-ae86-11eb-885f-8d5030c8b42a.png)
+
